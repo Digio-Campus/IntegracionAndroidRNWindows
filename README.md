@@ -15,3 +15,5 @@ compileOptions {
         jvmTarget = '17'
     }
     Debe de estar en la misma versión que lo del kotlintoolchain, el cual es la 17
+
+Importante: Esta integración está hecha con groovyDSL
